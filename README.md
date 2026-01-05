@@ -4,7 +4,7 @@
 
 ## 필요 파일
 프로그램 실행을 위해 다음 파일들이 **같은 폴더**에 있어야 합니다:
-1.  `8-8.py`: 메인 프로그램 소스 코드
+1.  `dog_species_classification.py`: 메인 프로그램 소스 코드
 2.  `cnn_for_stanford_dogs.h5`: 학습된 딥러닝 모델 파일
 3.  `dog_species_names.txt`: 견종 이름 데이터 파일
 4.  `requirements.txt`: 필요 라이브러리 목록
@@ -22,7 +22,7 @@ pip install -r requirements.txt
 터미널이나 명령 프롬프트에서 아래 명령어로 실행합니다.
 
 ```bash
-python 8-8.py
+python dog_species_classification.py
 ```
 
 ## 참고 사항
