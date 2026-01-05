@@ -8,6 +8,7 @@
 2.  `cnn_for_stanford_dogs.h5`: 학습된 딥러닝 모델 파일
 3.  `dog_species_names.txt`: 견종 이름 데이터 파일
 4.  `requirements.txt`: 필요 라이브러리 목록
+5.  `Images.zip`: 강아지 샘플 이미지 (압축 파일)
 
 ## 설치 방법 (Installation)
 
