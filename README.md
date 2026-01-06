@@ -10,6 +10,8 @@
 4.  `requirements.txt`: 필요 라이브러리 목록
 5.  `Images.zip`: 강아지 샘플 이미지 (압축 파일)
 
+   -참고: cnn_for_stanford_dogs.h5, Images.zip는 각각 700MB정도 용량이 되므로 디스크에 여유공간이 필요합니다.
+
 ## 설치 방법 (Installation)
 
 파이썬이 설치된 환경에서 아래 명령어로 필요한 라이브러리를 설치하세요.
